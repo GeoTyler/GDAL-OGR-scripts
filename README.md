@@ -1,4 +1,4 @@
-GDAL-OGR-scripts
+GDAL-OGR Python Scripts
 ================
 
-A collection of scripts to perform GIS operations with OGR and GDAL
+A collection of Python scripts to perform GIS operations with OGR and GDAL
